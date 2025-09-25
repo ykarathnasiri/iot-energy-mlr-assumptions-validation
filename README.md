@@ -2,13 +2,6 @@
 
 A comprehensive analysis of IoT sensor data to predict energy consumption changes using Multiple Linear Regression (MLR) with thorough assumption validation.
 
-## 👥 Team Members
-- W.A.C Fernando - 26545  
-- R.T Dulmina - 27999  
-- S.I.M.S Wimalasiri - 29785  
-- M.A.P.M Premasiri - 26033  
-- Y.K.A Rathnasiri - 27413
-
 ## 📋 Project Overview
 
 This project analyzes an **IoT-based dataset** that records environmental and operational changes measured by sensors. The main objective is to understand how environmental factors influence energy consumption in IoT systems and build a reliable predictive model.
